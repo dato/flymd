@@ -16,7 +16,7 @@ alt="Emacs Multithread Demo on Youtube" width="960" height="540" border="10" /><
 
 ### Features
 
-- Esay to use
+- Easy to use
 - Auto scroll
 - GFM compatible
 - Online image render
